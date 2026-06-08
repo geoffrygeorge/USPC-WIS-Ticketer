@@ -58,7 +58,7 @@ def info_expander(map_key):
 
             st.markdown("* **Dates:** Monday, 20 July - Wednesday, 22 July 2026")
             st.markdown("* **Venue:** United Shalom Pentecostal Church, 89 Floatshall Road, Manchester, M23 1JB, UK")
-            st.markdown("* **Contact:** +44 7550634734")
+            st.markdown("* **Contact:** +44 7967758301")
 
             st.markdown("##### Registration Fees:")
 
@@ -78,4 +78,4 @@ def info_expander(map_key):
 
         with SUPPORT_TEAM_TAB:
             st.subheader("Support Contact", divider="grey")
-            st.link_button("+447550634734", icon=":material/call:", url="tel:+447550634734", width="stretch")
+            st.link_button("Pr. Mathew Varghese", icon=":material/call:", url="tel:+447967758301", width="stretch")
